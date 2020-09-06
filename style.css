@@ -1,0 +1,139 @@
+
+body{
+color: #40514E;
+text-align:center;
+font-family: designer;
+border: 0 0;
+margin: 0px;
+text-decoration: none;
+}
+
+
+h1{
+color: #66BFBF;
+ margin-top: 50px auto 0 auto;
+font-size: 562%;
+}
+
+h2{
+color: #66BFBF;
+font-size: 2.5rem;
+font-weight: normal;
+line-height: 2;
+}
+
+h3{
+  color:#11999E;
+}
+p{
+  line-height: 2;
+  margin: 0px;
+}
+hr{
+  border: dotted #dbcbbd 6px;
+  border-bottom: none;
+  width: 45px;
+margin: 100px auto 100px auto;
+
+}
+
+
+.top-continer{
+  background-color: #cffffe;
+  position: relative;
+  padding-top: 150px;
+}
+.top-cloud{
+position: absolute;
+margin-left: 100px;
+top: 101px;
+
+}
+
+.bottom-cloud{
+position: absolute;
+left: 497px;
+    top: 326px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 20px;
+
+}
+.skills-row{
+  width: 50%;
+  margin: 100px auto 50px auto;
+  text-align: right;
+  line-height: 20px;
+
+}
+.profile{
+margin: 70px auto 70px auto;
+}
+.chillies_img{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.love_img{
+    width: 25%;
+    float: right;
+    height: 125px;
+    margin-left: 30px;
+}
+.middle-container{
+
+}
+.intro{
+  width: 30%;
+  margin: 10px auto;
+}
+
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#007dc1;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 24px;
+	text-decoration:none;
+  margin: 15px auto 15px 100px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.center{
+  margin: auto;
+}
+.myButton.style {
+    border-right-width: 0px;
+    margin-right: 300px;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px auto 80px auto;
+}
+.footer-link
+{
+  margin: 15px auto;
+}
+a{
+  text-decoration: none;
+  padding: auto 50px;
+}
+a:hover{
+  color: white;
+}
